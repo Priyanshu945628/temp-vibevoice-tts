@@ -1,0 +1,231 @@
+# The History of AI - How Machines Became Intelligent
+
+**[0:00 - 0:25 | HOOK]**
+
+Imagine going back 80 years.
+
+Computers were massive machines that could barely perform basic calculations.
+
+And today?
+
+You can talk to an AI, ask it to write code, create images, analyze videos, translate languages, and even solve complex problems.
+
+So, how did we get here?
+
+How did machines go from simply following instructions,
+
+to something that looks like intelligence?
+
+This is the story of Artificial Intelligence.
+
+---
+
+**[0:25 - 1:05 | THE IDEA BEFORE AI]**
+
+The idea of artificial intelligence actually started long before ChatGPT, smartphones, or even modern computers.
+
+In the 1940s and 1950s, scientists began asking a strange question:
+
+"Can a machine think?"
+
+One of the most important people in this story was Alan Turing.
+
+In 1950, Turing published a famous paper called "Computing Machinery and Intelligence."
+
+Instead of trying to define exactly what "thinking" means, he proposed a test.
+
+If a human could communicate with a machine and couldn't reliably tell whether they were talking to a human or a machine,
+
+maybe we could call that machine intelligent.
+
+This became known as the Turing Test.
+
+And this question became the foundation for a completely new field.
+
+---
+
+**[1:05 - 1:40 | THE BIRTH OF AI]**
+
+Then came 1956.
+
+A group of researchers met at Dartmouth College in the United States.
+
+And they officially introduced the term:
+
+"Artificial Intelligence."
+
+The basic idea was incredibly ambitious:
+
+What if intelligence could be described so precisely that a machine could simulate it?
+
+Early AI researchers believed that with enough rules and computing power, machines could eventually solve many problems that humans solve using intelligence.
+
+And initially, they weren't completely wrong.
+
+Early programs could solve mathematical problems, play games, prove logical statements, and manipulate symbols.
+
+But there was one huge problem.
+
+These systems didn't really learn.
+
+They were mostly following rules written by humans.
+
+---
+
+**[1:40 - 2:20 | RULES vs MACHINE LEARNING]**
+
+Think about teaching a computer to recognize a cat.
+
+The old approach would be something like:
+
+"If it has two ears, four legs, whiskers, and a tail, then it's probably a cat."
+
+But real life doesn't work like that.
+
+Cats can look completely different.
+
+So instead of giving the machine every rule, scientists started asking:
+
+"What if the machine learns the rules itself?"
+
+This idea became known as Machine Learning.
+
+Instead of explicitly programming every decision, you give a system examples.
+
+Thousands, millions, or eventually billions of examples.
+
+The machine looks for patterns in the data and builds its own mathematical model.
+
+And this changed everything.
+
+---
+
+**[2:20 - 3:00 | NEURAL NETWORKS]**
+
+One of the most important ideas behind modern AI is the neural network.
+
+Neural networks are loosely inspired by the way biological brains process information.
+
+A neural network contains layers of mathematical operations.
+
+You give it an input, the information passes through these layers, and eventually you get an output.
+
+For example, give a neural network thousands of pictures of cats and dogs.
+
+At first, its predictions are terrible.
+
+But during training, the system compares its prediction with the correct answer.
+
+Then it adjusts millions or even billions of internal parameters.
+
+Again and again.
+
+Prediction. Error. Adjustment. Repeat.
+
+Eventually, the network becomes extremely good at recognizing patterns.
+
+And this approach eventually led to something called Deep Learning.
+
+---
+
+**[3:00 - 3:40 | THE DEEP LEARNING REVOLUTION]**
+
+The real explosion happened when three things came together:
+
+More data. More powerful hardware. And better algorithms.
+
+Especially GPUs.
+
+Originally designed mainly for graphics, GPUs turned out to be extremely useful for performing the huge number of mathematical calculations needed to train neural networks.
+
+Then, in 2012, a neural network called AlexNet achieved a major breakthrough in image recognition.
+
+It dramatically outperformed traditional approaches in a major computer-vision competition.
+
+This showed researchers that deep neural networks could scale much further than many people expected.
+
+And AI research accelerated rapidly.
+
+---
+
+**[3:40 - 4:25 | TRANSFORMERS AND GENERATIVE AI]**
+
+Then came another huge breakthrough.
+
+2017.
+
+Researchers at Google published a paper called:
+
+"Attention Is All You Need."
+
+It introduced the Transformer architecture.
+
+Transformers changed how AI could process sequences of information, especially language.
+
+Instead of simply reading one word at a time, the model could learn relationships between different parts of a sentence.
+
+And this architecture became the foundation for many modern AI systems.
+
+Large language models were trained on enormous amounts of text.
+
+They learned statistical patterns in language.
+
+They learned how words, concepts, and structures relate to each other.
+
+And eventually, something surprising happened.
+
+These models weren't just completing sentences.
+
+They could write essays, generate code, translate languages, summarize information, answer questions, and interact conversationally.
+
+---
+
+**[4:25 - 4:50 | CHATGPT AND THE AI BOOM]**
+
+Then, in November 2022, ChatGPT was released publicly.
+
+And suddenly, AI wasn't something only researchers or large companies were experimenting with.
+
+Millions of ordinary people could simply open a website, type a question, and have a conversation with an AI.
+
+This triggered an enormous wave of interest in generative AI.
+
+Companies began building AI systems for coding, images, audio, video, research, education, business, and much more.
+
+AI had officially entered everyday life.
+
+---
+
+**[4:50 - 5:15 | HOW AI BECAME INTELLIGENT]**
+
+But here's the most important part.
+
+AI didn't suddenly become intelligent because someone programmed intelligence into it.
+
+Modern AI became powerful because researchers discovered ways to let machines learn patterns from enormous amounts of data, using increasingly powerful mathematical models and hardware.
+
+The basic loop is surprisingly simple:
+
+Data, Training, Prediction, Error, Adjustment, Repeat.
+
+Do that billions of times with huge models, massive datasets, and enormous computing power, and surprisingly capable behavior can emerge.
+
+---
+
+**[5:15 - 5:30 | ENDING]**
+
+And that's how we went from machines that could only follow instructions,
+
+to machines that can generate language, images, code, music, and increasingly complex reasoning.
+
+But we're still at the beginning.
+
+The next question isn't just:
+
+"Can machines become intelligent?"
+
+It's:
+
+"How intelligent can they become?"
+
+And that, is a story we're still writing.

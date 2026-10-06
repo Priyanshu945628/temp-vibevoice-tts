@@ -1,0 +1,9 @@
+torch>=2.2.0
+torchaudio>=2.2.0
+transformers>=4.45.0
+soundfile>=0.12.1
+scipy>=1.11.0
+numpy>=1.24.0
+edge-tts>=6.1.9
+accelerate>=0.28.0
+git+https://github.com/microsoft/VibeVoice.git
